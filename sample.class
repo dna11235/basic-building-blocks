@@ -1,0 +1,28 @@
+// CLASS NAME
+// CREATOR NAME
+// DATE
+// DESCRIPTION
+
+// *** IMPORTS BEGIN ***
+import your_class;
+
+// *** IMPORT ENDS ***
+
+// *** CLASS BEGIN ***
+public class sample {
+  // PRIVATE VARIABLES
+  private int Your_Var;
+  
+  // PUBLIC VARIABLE
+  
+  // CONSTRUCTORS
+  public your_class () {
+    this.Your_Var = 0;
+  }
+  public your_class (int Your_Var) {
+    this.Your_Var = Your_Var;
+  }
+
+  // METHODS
+
+}
